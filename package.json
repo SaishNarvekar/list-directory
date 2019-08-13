@@ -1,0 +1,17 @@
+{
+  "name": "list-directory",
+  "version": "1.0.0",
+  "description": "Command Line utility written in Node.js for 'ls' command from UNIX Systems.",
+  "main": "cli.js",
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": [
+    "command"
+  ],
+  "author": "Saish Narvekar",
+  "license": "ISC",
+  "bin": {
+    "say-hello": "./cli.js"
+  }
+}
